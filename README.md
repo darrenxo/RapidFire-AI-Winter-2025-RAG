@@ -1,7 +1,5 @@
 # RapidFire-AI-Winter-2025-RAG
 This repository contains my submission for the RapidFire AI Winter 2025 Competition (RAG Track).
-# Retrieval-First RAG Experimentation (FiQA)
-
 ## Overview
 - **Task:** Financial opinion question answering (retrieval-first RAG)
 - **Dataset:** FiQA (BEIR benchmark)
