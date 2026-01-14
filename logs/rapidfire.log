@@ -1,0 +1,316 @@
+2026-01-14 00:22:02 | DocProcessingActor | INFO | doc_actor.py:55 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor initialized
+2026-01-14 00:22:02 | DocProcessingActor | INFO | doc_actor.py:55 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor initialized
+2026-01-14 00:22:04 | DocProcessingActor | INFO | doc_actor.py:95 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Starting context initialization...
+2026-01-14 00:22:04 | DocProcessingActor | INFO | doc_actor.py:101 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Building FAISS index...
+2026-01-14 00:22:04 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:22:04 | DocProcessingActor | INFO | doc_actor.py:95 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Starting context initialization...
+2026-01-14 00:22:04 | DocProcessingActor | INFO | doc_actor.py:101 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Building FAISS index...
+2026-01-14 00:22:04 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:22:14 | DocProcessingActor | INFO | doc_actor.py:103 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index built successfully
+2026-01-14 00:22:14 | DocProcessingActor | INFO | doc_actor.py:107 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Transferring FAISS index from GPU to CPU for serialization...
+2026-01-14 00:22:14 | DocProcessingActor | INFO | doc_actor.py:114 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index transferred to CPU successfully
+2026-01-14 00:22:14 | DocProcessingActor | INFO | doc_actor.py:136 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Serializing FAISS index for cross-actor sharing...
+2026-01-14 00:22:14 | DocProcessingActor | INFO | doc_actor.py:141 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index serialized: 3820152 bytes
+2026-01-14 00:22:14 | DocProcessingActor | INFO | doc_actor.py:162 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Context components ready for sharing
+2026-01-14 00:22:15 | DocProcessingActor | INFO | doc_actor.py:103 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index built successfully
+2026-01-14 00:22:15 | DocProcessingActor | INFO | doc_actor.py:107 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Transferring FAISS index from GPU to CPU for serialization...
+2026-01-14 00:22:15 | DocProcessingActor | INFO | doc_actor.py:114 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index transferred to CPU successfully
+2026-01-14 00:22:15 | DocProcessingActor | INFO | doc_actor.py:136 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Serializing FAISS index for cross-actor sharing...
+2026-01-14 00:22:15 | DocProcessingActor | INFO | doc_actor.py:141 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index serialized: 6804600 bytes
+2026-01-14 00:22:15 | DocProcessingActor | INFO | doc_actor.py:162 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Context components ready for sharing
+2026-01-14 00:22:31 | DocProcessingActor | INFO | doc_actor.py:55 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor initialized
+2026-01-14 00:22:32 | DocProcessingActor | INFO | doc_actor.py:55 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor initialized
+2026-01-14 00:22:33 | DocProcessingActor | INFO | doc_actor.py:95 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Starting context initialization...
+2026-01-14 00:22:33 | DocProcessingActor | INFO | doc_actor.py:101 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Building FAISS index...
+2026-01-14 00:22:33 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:22:34 | DocProcessingActor | INFO | doc_actor.py:95 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Starting context initialization...
+2026-01-14 00:22:34 | DocProcessingActor | INFO | doc_actor.py:101 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Building FAISS index...
+2026-01-14 00:22:34 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:22:43 | DocProcessingActor | INFO | doc_actor.py:103 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index built successfully
+2026-01-14 00:22:43 | DocProcessingActor | INFO | doc_actor.py:107 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Transferring FAISS index from GPU to CPU for serialization...
+2026-01-14 00:22:43 | DocProcessingActor | INFO | doc_actor.py:114 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index transferred to CPU successfully
+2026-01-14 00:22:43 | DocProcessingActor | INFO | doc_actor.py:136 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Serializing FAISS index for cross-actor sharing...
+2026-01-14 00:22:43 | DocProcessingActor | INFO | doc_actor.py:141 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index serialized: 3777144 bytes
+2026-01-14 00:22:43 | DocProcessingActor | INFO | doc_actor.py:162 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Context components ready for sharing
+2026-01-14 00:22:44 | DocProcessingActor | INFO | doc_actor.py:103 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index built successfully
+2026-01-14 00:22:44 | DocProcessingActor | INFO | doc_actor.py:107 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Transferring FAISS index from GPU to CPU for serialization...
+2026-01-14 00:22:44 | DocProcessingActor | INFO | doc_actor.py:114 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index transferred to CPU successfully
+2026-01-14 00:22:44 | DocProcessingActor | INFO | doc_actor.py:136 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Serializing FAISS index for cross-actor sharing...
+2026-01-14 00:22:44 | DocProcessingActor | INFO | doc_actor.py:141 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index serialized: 6374520 bytes
+2026-01-14 00:22:44 | DocProcessingActor | INFO | doc_actor.py:162 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Context components ready for sharing
+2026-01-14 00:23:00 | DocProcessingActor | INFO | doc_actor.py:55 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor initialized
+2026-01-14 00:23:01 | DocProcessingActor | INFO | doc_actor.py:55 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor initialized
+2026-01-14 00:23:02 | DocProcessingActor | INFO | doc_actor.py:95 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Starting context initialization...
+2026-01-14 00:23:02 | DocProcessingActor | INFO | doc_actor.py:101 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Building FAISS index...
+2026-01-14 00:23:02 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:23:03 | DocProcessingActor | INFO | doc_actor.py:95 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Starting context initialization...
+2026-01-14 00:23:03 | DocProcessingActor | INFO | doc_actor.py:101 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Building FAISS index...
+2026-01-14 00:23:03 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:23:11 | DocProcessingActor | INFO | doc_actor.py:103 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index built successfully
+2026-01-14 00:23:11 | DocProcessingActor | INFO | doc_actor.py:107 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Transferring FAISS index from GPU to CPU for serialization...
+2026-01-14 00:23:11 | DocProcessingActor | INFO | doc_actor.py:114 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index transferred to CPU successfully
+2026-01-14 00:23:11 | DocProcessingActor | INFO | doc_actor.py:136 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Serializing FAISS index for cross-actor sharing...
+2026-01-14 00:23:11 | DocProcessingActor | INFO | doc_actor.py:141 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index serialized: 3735672 bytes
+2026-01-14 00:23:11 | DocProcessingActor | INFO | doc_actor.py:162 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Context components ready for sharing
+2026-01-14 00:23:13 | DocProcessingActor | INFO | doc_actor.py:103 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index built successfully
+2026-01-14 00:23:13 | DocProcessingActor | INFO | doc_actor.py:107 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Transferring FAISS index from GPU to CPU for serialization...
+2026-01-14 00:23:13 | DocProcessingActor | INFO | doc_actor.py:114 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index transferred to CPU successfully
+2026-01-14 00:23:13 | DocProcessingActor | INFO | doc_actor.py:136 | [exp1-fiqa-rag-colab_22:DocProcessingActor] Serializing FAISS index for cross-actor sharing...
+2026-01-14 00:23:13 | DocProcessingActor | INFO | doc_actor.py:141 | [exp1-fiqa-rag-colab_22:DocProcessingActor] FAISS index serialized: 6008952 bytes
+2026-01-14 00:23:13 | DocProcessingActor | INFO | doc_actor.py:162 | [exp1-fiqa-rag-colab_22:DocProcessingActor] DocProcessingActor: Context components ready for sharing
+2026-01-14 00:23:32 | QueryProcessingActor-0 | INFO | query_actor.py:139 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Initializing new inference engine (config hash: 53195b69)
+2026-01-14 00:24:13 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:24:13 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:24:13 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:24:15 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:24:15 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:24:15 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:24:15 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:26:24 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:26:24 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:26:24 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:26:24 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:26:26 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:26:26 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:26:26 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:26:26 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:28:34 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:28:34 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:28:34 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:28:34 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:28:36 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:28:36 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:28:36 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:28:36 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:30:45 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:30:45 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:30:45 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:30:45 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:30:46 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:30:46 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:30:46 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:30:46 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:32:55 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:32:55 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:32:55 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:32:55 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:32:56 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:32:56 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:32:56 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:32:56 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:35:06 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:35:06 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:35:06 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:35:06 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:35:08 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:35:08 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:35:08 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:35:08 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:37:16 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:37:16 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:37:16 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:37:16 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:37:18 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:37:18 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:37:18 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:37:18 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:39:29 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:39:29 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:39:29 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:39:29 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:39:31 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:39:31 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:39:31 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:39:31 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:41:40 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:41:40 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:41:40 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:41:40 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:41:42 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:41:42 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:41:42 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:41:42 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:43:52 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:43:52 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:43:52 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:43:52 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:43:54 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:43:54 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:43:54 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:43:54 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:46:03 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:46:03 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:46:03 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:46:03 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:46:04 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:46:04 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:46:04 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:46:04 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:48:14 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:48:14 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:48:14 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:48:14 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:48:16 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:48:16 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:48:16 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:48:16 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:50:26 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:50:26 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:50:26 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:50:26 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:50:28 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:50:28 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:50:28 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:50:28 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:52:37 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:52:37 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:52:37 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:52:37 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:52:39 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:52:39 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:52:39 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:52:39 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:54:47 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:54:47 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:54:47 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:54:47 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:54:48 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:54:48 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:54:48 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:54:48 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:56:58 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:56:58 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:56:58 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:56:58 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:57:00 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:57:00 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:57:00 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:57:00 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 00:59:07 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 00:59:07 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 00:59:07 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 00:59:07 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 00:59:10 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 00:59:10 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 00:59:10 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 00:59:10 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:01:16 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:01:16 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:01:16 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:01:16 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:01:18 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:01:18 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:01:18 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:01:18 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:03:25 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:03:25 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:03:25 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:03:25 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:03:27 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:03:27 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:03:27 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:03:27 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:05:37 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:05:37 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:05:37 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:05:37 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:05:39 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:05:39 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:05:39 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:05:39 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:07:42 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:07:42 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:07:42 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:07:42 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:07:44 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:07:44 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:07:44 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:07:44 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:09:52 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:09:52 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:09:52 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:09:52 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:09:54 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:09:54 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:09:54 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:09:54 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:12:00 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:12:00 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:12:00 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:12:00 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:12:02 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:12:02 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:12:02 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:12:02 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:14:11 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:14:11 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:14:11 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:14:11 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:14:13 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:14:13 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:14:13 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:14:13 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:16:20 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:16:20 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:16:20 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:16:20 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:16:22 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:16:22 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:16:22 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:16:22 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:18:30 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:18:30 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:18:30 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:18:31 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:18:33 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:18:33 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:18:33 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:18:33 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:20:37 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:20:37 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:20:37 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:20:37 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:20:39 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:20:39 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:20:39 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:20:39 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:22:49 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:22:49 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:22:49 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:22:49 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:22:50 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:22:50 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:22:50 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:22:50 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:24:58 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:24:58 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:24:58 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:24:58 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:25:00 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:25:00 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:25:00 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:25:00 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:27:10 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:27:10 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:27:10 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:27:10 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:27:12 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:27:12 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:27:12 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:27:12 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:29:17 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:29:17 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:29:17 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:29:17 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:29:19 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:29:19 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:29:19 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:29:19 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
+2026-01-14 01:31:27 | QueryProcessingActor-0 | INFO | query_actor.py:143 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Reusing existing inference engine (config hash: 53195b69)
+2026-01-14 01:31:27 | QueryProcessingActor-0 | INFO | query_actor.py:162 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Using CPU-based FAISS for retrieval (avoids GPU memory conflicts)
+2026-01-14 01:31:27 | QueryProcessingActor-0 | INFO | query_actor.py:169 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Deserializing FAISS index for this actor...
+2026-01-14 01:31:27 | sentence_transformers.SentenceTransformer | INFO | SentenceTransformer.py:227 | Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2026-01-14 01:31:29 | QueryProcessingActor-0 | INFO | query_actor.py:178 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated embedding function: HuggingFaceEmbeddings
+2026-01-14 01:31:29 | QueryProcessingActor-0 | INFO | query_actor.py:187 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Created independent FAISS vector store for this actor
+2026-01-14 01:31:29 | QueryProcessingActor-0 | INFO | query_actor.py:196 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated retriever with search_type=similarity
+2026-01-14 01:31:29 | QueryProcessingActor-0 | INFO | query_actor.py:218 | [exp1-fiqa-rag-colab_22:QueryProcessingActor-0] Recreated RAG spec with retriever and template
