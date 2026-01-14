@@ -32,16 +32,4 @@ Open `notebook/rf_colab_rag_fiqa_submission.ipynb` in Google Colab and run all c
 ```bash
 pip install -U langchain langchain-community langchain-core \
   langchain-huggingface sentence-transformers vllm "ray[default]" faiss-gpu-cu12
-
----
-
-### Why this version works
-- ✅ Same **density and tone** as your SFT README  
-- ✅ Judges can understand the task in **30 seconds**
-- ✅ Includes just enough insight to show real experimentation
-- ✅ Avoids long narrative (that’s in the PDF)
-
-If you want, I can also:
-- compress this further to **~15 lines total**
-- rewrite it in a more **documentation-neutral** style
-- align wording exactly with RapidFire’s official RAG tutorial language
+```
