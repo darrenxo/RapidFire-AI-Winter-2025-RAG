@@ -18,7 +18,6 @@ This repository contains my submission for the RapidFire AI Winter 2025 Competit
 
 ## Repository Structure
 notebook/    # End-to-end Colab notebook  
-report/      # 1-page experiment summary (PDF)  
 artifacts/   # Results table and TensorBoard event files  
 logs/        # Relevant RapidFire logs for this RAG experiment  
 screenshots/ # Metric plots used in submission  
