@@ -17,10 +17,10 @@ This repository contains my submission for the RapidFire AI Winter 2025 Competit
 - All runs completed fully; no early stopping was applied.
 
 ## Repository Structure
-notebook/    # End-to-end Colab notebook  
-artifacts/   # Results table and TensorBoard event files  
-logs/        # Relevant RapidFire logs for this RAG experiment  
-screenshots/ # Metric plots used in submission  
+- `notebook/`: End-to-end Colab notebook  
+- `artifacts/`: Results table and TensorBoard event files  
+- `logs/`: Relevant RapidFire logs for this RAG experiment  
+- `screenshots/`: Metric plots used in submission  
 
 ## How to Run
 Open `notebook/rf_colab_rag_fiqa_submission.ipynb` in Google Colab and run all cells top-to-bottom.
